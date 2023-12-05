@@ -16,4 +16,5 @@ This is a simple Mario clone built using C++ that follows best programming pract
 Add the following files:</br>
  * opencv_world451.dll</br>
  * opencv_world451d.dll</br>
+
 inside the 'SeminarMario' folder. Then run the game.
