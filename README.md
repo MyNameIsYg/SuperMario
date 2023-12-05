@@ -18,3 +18,4 @@ Add the following files:</br>
  * opencv_world451d.dll</br>
 
 inside the 'SeminarMario' folder. Then run the game.
+
