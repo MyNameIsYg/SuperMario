@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Practice">
+      <UniqueIdentifier>{fa13f3d5-7199-4a36-a323-b72e0c5a39a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day2">
+      <UniqueIdentifier>{081ef36a-a47f-4b15-a2ab-a2b3e0da3f19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day1">
+      <UniqueIdentifier>{aa16145d-1e7d-4b71-966a-00345facdbfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day4">
+      <UniqueIdentifier>{dbf4a06e-4571-463f-9b7a-b79e206324b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day5">
+      <UniqueIdentifier>{d8dcd12f-2acb-467a-a69b-d514fa5ae6b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day6">
+      <UniqueIdentifier>{fe45b57f-efd2-445a-9aa5-ec83724b3116}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pracrice.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Day1\Animation.cpp">
+      <Filter>Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="pracrice_Day2.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Day2\Graphics.cpp">
+      <Filter>Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="Day2\Physics.cpp">
+      <Filter>Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="Day2\SlimeEntity.cpp">
+      <Filter>Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="Day4\Entities.cpp">
+      <Filter>Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Day4\HeroEntity.cpp">
+      <Filter>Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Day4\Observer.cpp">
+      <Filter>Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Day4\Timer.cpp">
+      <Filter>Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="pracrice_Day4.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Day5\EntitiesPool.cpp">
+      <Filter>Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="Day6\LiveEntity.cpp">
+      <Filter>Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="Day6\LiveScoreEntity.cpp">
+      <Filter>Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="Day6\ScoreEntity.cpp">
+      <Filter>Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="Day6\AppleEntity.cpp">
+      <Filter>Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="Day6\BlockEntity.cpp">
+      <Filter>Day6</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Day1\Animation.h">
+      <Filter>Day1</Filter>
+    </ClInclude>
+    <ClInclude Include="Day2\Graphics.h">
+      <Filter>Day2</Filter>
+    </ClInclude>
+    <ClInclude Include="Day2\Physics.h">
+      <Filter>Day2</Filter>
+    </ClInclude>
+    <ClInclude Include="Day2\SlimeEntity.h">
+      <Filter>Day2</Filter>
+    </ClInclude>
+    <ClInclude Include="Day4\Config.h">
+      <Filter>Day4</Filter>
+    </ClInclude>
+    <ClInclude Include="Day4\Entities.h">
+      <Filter>Day4</Filter>
+    </ClInclude>
+    <ClInclude Include="Day4\HeroEntity.h">
+      <Filter>Day4</Filter>
+    </ClInclude>
+    <ClInclude Include="Day4\Observer.h">
+      <Filter>Day4</Filter>
+    </ClInclude>
+    <ClInclude Include="Day4\Timer.h">
+      <Filter>Day4</Filter>
+    </ClInclude>
+    <ClInclude Include="Day5\EntitiesPool.h">
+      <Filter>Day5</Filter>
+    </ClInclude>
+    <ClInclude Include="Day6\LiveEntity.h">
+      <Filter>Day6</Filter>
+    </ClInclude>
+    <ClInclude Include="Day6\LiveScoreEntity.h">
+      <Filter>Day6</Filter>
+    </ClInclude>
+    <ClInclude Include="Day6\ScoreEntity.h">
+      <Filter>Day6</Filter>
+    </ClInclude>
+    <ClInclude Include="Day6\AppleEntity.h">
+      <Filter>Day6</Filter>
+    </ClInclude>
+    <ClInclude Include="Day6\BlockEntity.h">
+      <Filter>Day6</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

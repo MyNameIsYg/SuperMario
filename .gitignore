@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# dir
+.vs/
+x64/
+SeminarMario/x64/
