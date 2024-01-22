@@ -58,3 +58,7 @@ To start playing, add the following files:
 Inside the 'SeminarMario' folder. Then run the game.
 
 
+###
+Feel free to explore the website and test its features. If you encounter any issues or have feedback, please submit an [issue](https://github.com/MyNameIsYg/SuperMario/issues).
+
+
